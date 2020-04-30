@@ -82,7 +82,8 @@
 					"actions": {
 						"showInBrowser": {
 							"baseUrl": "http://localhost:8080",
-							"deploymentStrategy": "appendDeploymentNameRemoveSuffix"
+							"deploymentStrategy": "appendDeploymentNameRemoveSuffix",
+							"resourceLocator": "jee"
 						},
 						"editServerConfiguration": {
 							"paths": "conf/server.xml,conf/web.xml"
@@ -173,7 +174,8 @@
 					"actions": {
 						"showInBrowser": {
 							"baseUrl": "http://localhost:8080",
-							"deploymentStrategy": "appendDeploymentNameRemoveSuffix"
+							"deploymentStrategy": "appendDeploymentNameRemoveSuffix",
+							"resourceLocator": "jee"
 						},
 						"editServerConfiguration": {
 							"paths": "conf/server.xml,conf/web.xml"
@@ -264,7 +266,8 @@
 					"actions": {
 						"showInBrowser": {
 							"baseUrl": "http://localhost:8080",
-							"deploymentStrategy": "appendDeploymentNameRemoveSuffix"
+							"deploymentStrategy": "appendDeploymentNameRemoveSuffix",
+							"resourceLocator": "jee"
 						},
 						"editServerConfiguration": {
 							"paths": "conf/server.xml,conf/web.xml"
@@ -355,7 +358,8 @@
 					"actions": {
 						"showInBrowser": {
 							"baseUrl": "http://localhost:8080",
-							"deploymentStrategy": "appendDeploymentNameRemoveSuffix"
+							"deploymentStrategy": "appendDeploymentNameRemoveSuffix",
+							"resourceLocator": "jee"
 						},
 						"editServerConfiguration": {
 							"paths": "conf/server.xml,conf/web.xml"
@@ -446,7 +450,8 @@
 					"actions": {
 						"showInBrowser": {
 							"baseUrl": "http://localhost:8080",
-							"deploymentStrategy": "appendDeploymentNameRemoveSuffix"
+							"deploymentStrategy": "appendDeploymentNameRemoveSuffix",
+							"resourceLocator": "jee"
 						},
 						"editServerConfiguration": {
 							"paths": "conf/server.xml,conf/web.xml"
@@ -537,7 +542,8 @@
 					"actions": {
 						"showInBrowser": {
 							"baseUrl": "http://localhost:8080",
-							"deploymentStrategy": "appendDeploymentNameRemoveSuffix"
+							"deploymentStrategy": "appendDeploymentNameRemoveSuffix",
+							"resourceLocator": "jee"
 						},
 						"editServerConfiguration": {
 							"paths": "conf/server.xml,conf/web.xml"

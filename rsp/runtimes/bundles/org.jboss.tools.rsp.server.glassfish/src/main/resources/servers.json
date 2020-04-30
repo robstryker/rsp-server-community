@@ -103,7 +103,8 @@
 					"actions": {
 						"showInBrowser": {
 							"baseUrl": "http://${glassfish.host}:${glassfish.port}",
-							"deploymentStrategy": "appendDeploymentNameRemoveSuffix"
+							"deploymentStrategy": "appendDeploymentNameRemoveSuffix",
+							"resourceLocator": "jee"
 						},
 						"editServerConfiguration": {
 							"paths": "glassfish/domains/${glassfish.domain}/config/"

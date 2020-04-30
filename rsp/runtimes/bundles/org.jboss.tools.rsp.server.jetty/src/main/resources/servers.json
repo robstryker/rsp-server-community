@@ -83,7 +83,8 @@
 					"actions": {
 						"showInBrowser": {
 							"baseUrl": "http://${jetty.host}:${jetty.port}",
-							"deploymentStrategy": "appendDeploymentNameRemoveSuffix"
+							"deploymentStrategy": "appendDeploymentNameRemoveSuffix",
+							"resourceLocator": "jee"
 						},
 						"editServerConfiguration": {
 							"paths": "${jetty.base.dir}/etc/,${jetty.base.dir}/start.d/"
